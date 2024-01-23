@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"TM1638_TB_func_synth.v" \
+
+sv xil_defaultlib  \
+"../../../../../TM1638.srcs/sim_1/new/TM1638_TB.sv" \
+
+# Do not sort compile order
+nosort
