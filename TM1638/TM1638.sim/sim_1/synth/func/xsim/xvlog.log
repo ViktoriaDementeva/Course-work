@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/synth/func/xsim/TM1638_TB_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TM1638
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.srcs/sim_1/new/TM1638_TB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TM1638_TB

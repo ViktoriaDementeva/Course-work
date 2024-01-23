@@ -1,0 +1,309 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 23 17:09:05 2024
+# Process ID: 6364
+# Current directory: D:/WorkSpace/Mag/3/Vivado/TM1638
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9508 D:\WorkSpace\Mag\3\Vivado\TM1638\TM1638.xpr
+# Log file: D:/WorkSpace/Mag/3/Vivado/TM1638/vivado.log
+# Journal file: D:/WorkSpace/Mag/3/Vivado/TM1638\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 20 us
+run 100 us
+run 100 us
+run 100 us
+save_wave_config {D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+restart
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+save_wave_config {D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+save_wave_config {D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+save_wave_config {D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+restart
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+restart
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+restart
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+restart
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+restart
+run 100 us
+run 100 us
+run 100 us
+restart
+run 100 us
+run 100 us
+close_sim
+launch_simulation
+open_wave_config D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg
+source TM1638_TB.tcl
+run 100 us
+run 100 us
+save_wave_config {D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638_TB_behav.wcfg}
+close_sim
