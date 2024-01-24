@@ -3,7 +3,7 @@ Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
 Running: D:/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 0c406f8e8e8c4d5ebc7153615366cecf --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TM1638_TB_behav xil_defaultlib.TM1638_TB xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
-WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 1 for port 'dio' [D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.srcs/sim_1/new/TM1638_TB.sv:33]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 1 for port 'dio' [D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.srcs/sim_1/new/TM1638_TB.sv:33]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis

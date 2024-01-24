@@ -2,11 +2,11 @@
 # Vivado v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Sun Jan 21 17:52:32 2024
-# Process ID: 11084
-# Current directory: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.runs/synth_1
+# Start of session at: Wed Jan 24 16:54:05 2024
+# Process ID: 6548
+# Current directory: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.runs/synth_1
 # Command line: vivado.exe -log TM1638.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TM1638.tcl
-# Log file: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.runs/synth_1/TM1638.vds
-# Journal file: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.runs/synth_1\vivado.jou
+# Log file: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.runs/synth_1/TM1638.vds
+# Journal file: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
 source TM1638.tcl -notrace
