@@ -2,11 +2,11 @@
 # Webtalk v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Mon Jan 22 22:32:14 2024
-# Process ID: 5424
-# Current directory: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/behav/xsim
-# Command line: wbtcv.exe -mode batch -source D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/behav/xsim/xsim.dir/TM1638_TB_behav/webtalk/xsim_webtalk.tcl -notrace
-# Log file: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/behav/xsim/webtalk.log
-# Journal file: D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/behav/xsim\webtalk.jou
+# Start of session at: Wed Jan 24 12:00:35 2024
+# Process ID: 3664
+# Current directory: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.sim/sim_1/behav/xsim/xsim.dir/TM1638_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
-source D:/WorkSpace/Mag/3/Vivado/TM1638/TM1638.sim/sim_1/behav/xsim/xsim.dir/TM1638_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+source D:/WorkSpace/Mag/3/Vivado/Course-work/Course-work/TM1638/TM1638.sim/sim_1/behav/xsim/xsim.dir/TM1638_TB_behav/webtalk/xsim_webtalk.tcl -notrace
